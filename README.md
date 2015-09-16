@@ -26,7 +26,7 @@ You might also be interested in the [software stack](https://github.com/OpenTron
 
 * 1100 - Belt Clip x3
 * 1101 - Pipette Holder x1
-* 1102 - [Pipette Stopper](1102_Pipette Stopper.stl) x1
+* 1102 - [Pipette Stopper](1102_Pipette_Stopper.stl) x1
 * 1106 - Z Motor Mount x1
 * 1107 - Z Motor Lock x1
 * 1150 - Tip Clip x1
