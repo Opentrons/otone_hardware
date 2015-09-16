@@ -19,16 +19,16 @@ This hardware is meant to operate in conjunction with an integrated [software st
 * 1007 - [A Motor Mount Set](models/1007_A_Motor Mount_Set.dxf) x1 (Acrylic, 8mm)
 * 1008 - [Z Motor Mount](models/1008_Z_Motor_Mount.dxf) x1 (Acrylic, 8mm)
 * 1009 - [Z Motor Lock](models/1009_Z_Motor_Lock.dxf) x1 (Acrylic, 8mm)
-* 1010 - Cable Rail Bracket x2 (Acrylic, 8mm)
+* 1010 - [Cable Rail Bracket](models/1010_Cable_Rail_Bracket_A.stl) x2 (Acrylic, 8mm)
 * 1011 - [Baseplate Rails](models/1011_Baseplate_Rails.dxf) x1 (Acrylic, 3mm, 8mm)
 
 ### 3D Printed (PLA)
 
-* 1100 - Belt Clip x3
+* 1100 - [Belt Clip](models/1100_F_Belt_Clip.stl) x3
 * 1101 - Pipette Holder x1
 * 1102 - [Pipette Stopper](models/1102_Pipette_Stopper.stl) x1
 * 1106 - Z Motor Mount x1
 * 1107 - Z Motor Lock x1
 * 1150 - Tip Clip x1
-* 1151 - Z Switch Block x1
+* 1151 - [Z Switch Block](models/1151_Z_Switch_F1.stl) x1
 * 1152 - Pipette Rail Mount x1
