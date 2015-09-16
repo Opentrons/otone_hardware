@@ -11,10 +11,10 @@ You might also be interested in the [software stack](https://github.com/OpenTron
 ### Lasercut
 
 * 1001 - [Baseplate](models/1001_A_Baseplate.dxf) x1 (6061 Aluminum, Anodized, 3mm)
-* 1002 - [Motor Mount Plate](models/1002_Motor_Mount Plate.dxf) x5 (6061 Aluminum, Anodized, 3mm)
+* 1002 - [Motor Mount Plate](models/1002_Motor_Mount_Plate.dxf) x5 (6061 Aluminum, Anodized, 3mm)
 * 1003 - Computer Mount Set x1 (Acrylic, 3mm)
-* 1004 - [Home Switch Mount Set](models/1004_Home_Switch Mount_Set.dxf) x1 (Acrylic, 3mm)
-* 1005 - [Z Rail Spacer](models/1005_Z_Rail Spacer.dxf) x1 (Acrylic, 5mm)
+* 1004 - [Home Switch Mount Set](models/1004_Home_Switch_Mount_Set.dxf) x1 (Acrylic, 3mm)
+* 1005 - [Z Rail Spacer](models/1005_Z_Rail_Spacer.dxf) x1 (Acrylic, 5mm)
 * 1006 - [Pipette Rail Mount](models/1006_Pipette_Rail_Mount.dxf) x1 (Acrylic, 5mm)
 * 1007 - [A Motor Mount Set](models/1007_A_Motor Mount_Set.dxf) x1 (Acrylic, 8mm)
 * 1008 - [Z Motor Mount](models/1008_Z_Motor_Mount.dxf) x1 (Acrylic, 8mm)
